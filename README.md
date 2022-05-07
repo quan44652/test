@@ -9,9 +9,16 @@
 # bước 4: Commit file
 `git commit -m "content"`
 # bước 5: Push file
-`git push origin main`  
+-branch name là branch hiện tại
+`git push origin branch-name`  
 
 
 
 # add nhiều file
 `git add .` hoặc `git add *`
+
+
+
+# tạo branch
+- Mục đích tạo branch là copy toàn bộ branch hiện tại sang 1 branch mới
+`git branch -m branch-name`
