@@ -15,3 +15,9 @@
 
 # add nhiều file
 `git add .` hoặc `git add *`
+
+
+
+# tạo branch
+- Mục đích tạo branch là copy toàn bộ branch hiện tại sang 1 branch mới
+`git branch -m branch-name`
