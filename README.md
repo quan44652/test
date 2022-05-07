@@ -9,7 +9,8 @@
 # bước 4: Commit file
 `git commit -m "content"`
 # bước 5: Push file
-`git push origin main`  
+-branch name là branch hiện tại
+`git push origin branch-name`  
 
 
 
