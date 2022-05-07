@@ -15,3 +15,24 @@
 
 # add nhiều file
 `git add .` hoặc `git add *`
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# git pull
+- git pull dùng để lấy code mới nhất từ trên git về
+- trước khi pull thì phải commit code lên
+`git pull origin branch-name`
