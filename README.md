@@ -9,4 +9,9 @@
 # bước 4: Commit file
 `git commit -m "content"`
 # bước 5: Push file
-`git push origin main`
+`git push origin main`  
+
+
+
+# add nhiều file
+`git add .` hoặc `git add *`
