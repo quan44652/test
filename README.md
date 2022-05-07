@@ -17,7 +17,7 @@
 # add nhiều file
 `git add .` hoặc `git add *`
 
-# git check out 
+# git checkout 
 - dùng để chuyển branch
 `git checkout branch-name`
 
